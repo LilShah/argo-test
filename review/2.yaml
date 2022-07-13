@@ -30,4 +30,4 @@ spec:
   namespaceLabels:
     label: value
     owner: stakater
-    stakater.com/tenant: tenant-sample
+    stakater.com/tenant: alpha
