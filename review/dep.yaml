@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: example
-  namespace: openshift-gitops
+  namespace: sigma-dev
 spec:
   selector:
     matchLabels:
