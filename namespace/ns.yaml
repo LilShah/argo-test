@@ -4,3 +4,15 @@ metadata:
   name: sigma-ns
   labels:
     stakater.com/tenant: sigma
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: test-ns
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: alpha-ns
+  labels:
+    stakater.com/tenant: alpha
