@@ -1,1 +1,2 @@
+echo "Hello there"
 echo "$@"
