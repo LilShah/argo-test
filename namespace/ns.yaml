@@ -16,3 +16,10 @@ metadata:
   name: alpha-ns
   labels:
     stakater.com/tenant: alpha
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: pro-bros
+  labels:
+    stakater.com/tenant: alpha
